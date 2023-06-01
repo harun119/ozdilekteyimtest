@@ -1,0 +1,80 @@
+{
+	"code": 200,
+	"message": null,
+	"data": {
+		"title": "Tüm Kampanyalar - Özdilekteyim.com",
+		"bnrLst": [{
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-3.jpg?context=bWFzdGVyfGJhbm5lcnN8Mzk2MDg2fGltYWdlL2pwZWd8aGFiL2hkZi85OTE3ODczMjU4NTI2LzEyNzB4NjAwcHhfMy5qcGd8NDE5NzdkZmNjZTBlM2EwYjU0ZGY4OTZjM2FjMGIxMzU0MTc3NmQ3YzdmMzk5NzZhMTExYjcxYjdkNzczODMxZQ",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-evtekstili-koltuk-ortusu",
+			"bnrTxt": "",
+			"category": "Erkek"
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-1.jpg?context=bWFzdGVyfGJhbm5lcnN8MjU5NDMxfGltYWdlL2pwZWd8aGUzL2g5NS85OTE4MjMzMjQ3Nzc0LzEyNzB4NjAwcHhfMS5qcGd8ODY1MjU2MDQxNjE1NzM4NjE3YTljYzYyYTYyNDJmYThkNWIxMmEzMDUzMDMzNDY3ZjRhNGZkMjllNzZmYmE5OQ",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/mrk-kuruyemis-cesitleri",
+			"bnrTxt": "",
+			"category": "Et & Balık"
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjkyNTAwfGltYWdlL2pwZWd8aDRkL2g5Ni85OTE4MjMzMjgwNTQyLzEyNzB4NjAwcHhfMi5qcGd8NjdmZmRlOTJiYmEyNmJhMWJkNWM0YjY0YWNjY2RhMmY5ODJiNDVmY2I4OWFkNDNiMGI4ZmViN2E1M2M0ODhhYg",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/mgz-kadin-aksesuar-valiz",
+			"bnrTxt": ""
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-3.jpg?context=bWFzdGVyfGJhbm5lcnN8Mzk2MDg2fGltYWdlL2pwZWd8aGY0L2g5OC85OTE4MjMzMzEzMzEwLzEyNzB4NjAwcHhfMy5qcGd8NjE2NGU3MzhiYTY4ZjJhZDNlYjUyZDhmOTlmMDllODE4OGNmOTcxNjIzYjIxYTk5MTBiMDI3YWE5MjFhNjA4Mw",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/mgz-kadin-ayakkabi-terlik",
+			"bnrTxt": "",
+			"category": "Sandalet & Terlik"
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-1.jpg?context=bWFzdGVyfGJhbm5lcnN8MjU5NDMxfGltYWdlL2pwZWd8aDZhL2hiMS85OTE4NDk1OTgxNTk4LzEyNzB4NjAwcHhfMS5qcGd8MWIzN2Y1MWMwMjJjYzNmYjFkMDIzMDA3OTE2MDNiNTcxZWE4YzEzMzk2NTY4MmI2NjYxMWZmYjcxMmJjZDQ5Nw",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/mgz-erkek-giyim-gomlek",
+			"bnrTxt": "",
+			"category": "Erkek"
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjkyNTAwfGltYWdlL2pwZWd8aGI0L2g5Zi85OTE4NDk1NDI0NTQyLzEyNzB4NjAwcHhfMi5qcGd8ZmNmYWZjYzRiNjhjYTFjOTUwYjU5NDQzNDAwODdiZTdhODkzNTcyNDhhNGUyOGUxNjQwNDkzY2M0MDBjZGEwYQ",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-nisan-puma-underarmour",
+			"bnrTxt": "",
+			"category": "Giyim"
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-1.jpg?context=bWFzdGVyfGJhbm5lcnN8MjU5NDMxfGltYWdlL2pwZWd8aGNhL2hhMy85OTE4NDk1NTg4MzgyLzEyNzB4NjAwcHhfMS5qcGd8MzlmYmM0NzE0YjJkODRiYmQzMGNhMmQ1Mzg4NGU5NjAxYzI3OWY2Mjg3ZTA4NDY5MDU1MDNkMmFjNTc3YWI3Yg",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-gomlek-2c-lp",
+			"bnrTxt": "",
+			"category": "Giyim"
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjkyNTAwfGltYWdlL2pwZWd8aDg0L2hhNi85OTE4NDk1NjIxMTUwLzEyNzB4NjAwcHhfMi5qcGd8YWUyMTE0Y2M5MTcyZmExN2U2NTgyODVjM2MzZjM1MTg0ZTI5NDRmZDEwNzA1YTAzYWU3YTE3Yjc2Y2Y0YmM3Yw",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-kazak-hirka",
+			"bnrTxt": "",
+			"category": "Giyim"
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-1.jpg?context=bWFzdGVyfGJhbm5lcnN8MjU5NDMxfGltYWdlL2pwZWd8aDlhL2hhYS85OTE4NDk1Nzg0OTkwLzEyNzB4NjAwcHhfMS5qcGd8NDgzOTFhMzU2M2E0MWQyNGY2NDM4ZjY4ZTc2NThiMDI5MDJkOWY1YmNlZGNiOTcwMmZmNzcwMDhjY2M5ZTY5YQ",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-mart-adidas-nike-25",
+			"bnrTxt": "",
+			"category": "Giyim"
+		}, {
+			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjkyNTAwfGltYWdlL2pwZWd8aDQxL2hhZC85OTE4NDk1ODE3NzU4LzEyNzB4NjAwcHhfMi5qcGd8MzA1MjU4NGE0MTgzMDkxZTJiMWRiOTg3OGNjMTExM2QwM2I4NWE3NmRmNDE0ZWEzMmVlNWRkZDQ2MTY1NzNlZA",
+			"prm": "",
+			"actUrl": "ozd://magaza-magaza-store/listing/category/mgz-spor-outdoor-kamp-urunleri-kamp-mutfak-urunleri",
+			"bnrTxt": "",
+			"category": "Giyim"
+		}],
+		"filterLst": [{
+			"category": "Erkek",
+			"metaTitle": ""
+		}, {
+			"category": "Et & Balık",
+			"metaTitle": ""
+		}, {
+			"category": "Sandalet & Terlik",
+			"metaTitle": ""
+		}, {
+			"category": "Giyim",
+			"metaTitle": ""
+		}]
+	}
+}
