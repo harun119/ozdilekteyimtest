@@ -1,0 +1,22 @@
+{
+	"code": 200,
+	"message": null,
+	"data": {
+		"coupons": [{
+			"id": "customercoupon",
+			"desc": "Anneler Günü Sepette :%20 indirim",
+			"code": "customercoupon",
+			"startDate": "20 Mayıs 2023",
+			"endDate": "20 Haziran 2023",
+			"discountAmount": "% 20"
+		}, {
+			"id": "customercoupon2",
+			"desc": "Market Ürünlerinde 10 TL indirim",
+			"code": "customercoupon2",
+			"startDate": "20 Mayıs 2023",
+			"endDate": "20 Ağustos 2023",
+			"discountAmount": "10 TL"
+		}],
+		"conditions": "Lorem ipsum..."
+	}
+}
