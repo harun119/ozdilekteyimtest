@@ -21,7 +21,7 @@
                 "filterKey": "swatchColors",
                 "title": "Renkler",
                 "selectionType": "multi",
-                "isQuickFilter": false,
+                "isQuickFilter": true,
                 "count": 180,
                 "items": [
                     {
@@ -168,7 +168,7 @@
                 "filterKey": "size",
                 "title": "Bedenler",
                 "selectionType": "multi",
-                "isQuickFilter": false,
+                "isQuickFilter": true,
                 "count": 181,
                 "items": [
                     {
@@ -228,7 +228,7 @@
                 "filterKey": "category",
                 "title": "Kategoriler",
                 "selectionType": "single",
-                "isQuickFilter": false,
+                "isQuickFilter": true,
                 "count": 205,
                 "items": [
                     {
@@ -279,7 +279,7 @@
                 "filterKey": "brand",
                 "title": "Markalar",
                 "selectionType": "multi",
-                "isQuickFilter": false,
+                "isQuickFilter": true,
                 "count": 180,
                 "items": [
                     {
