@@ -201,7 +201,7 @@
                 "filterKey": "priceRangeValue",
                 "title": "Fiyat Aralığı",
                 "selectionType": "multi",
-                "isQuickFilter": false,
+                "isQuickFilter": true,
                 "count": 180,
                 "items": [
                     {
@@ -300,7 +300,7 @@
                 "filterKey": "suitableForInstallment",
                 "title": "Taksitlendirme",
                 "selectionType": "multi",
-                "isQuickFilter": false,
+                "isQuickFilter": true,
                 "count": 180,
                 "items": [
                     {
