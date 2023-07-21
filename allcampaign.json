@@ -1,80 +1,1117 @@
 {
-	"code": 200,
-	"message": null,
-	"data": {
-		"title": "Tüm Kampanyalar - Özdilekteyim.com",
-		"bnrLst": [{
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-3.jpg?context=bWFzdGVyfGJhbm5lcnN8Mzk2MDg2fGltYWdlL2pwZWd8aGFiL2hkZi85OTE3ODczMjU4NTI2LzEyNzB4NjAwcHhfMy5qcGd8NDE5NzdkZmNjZTBlM2EwYjU0ZGY4OTZjM2FjMGIxMzU0MTc3NmQ3YzdmMzk5NzZhMTExYjcxYjdkNzczODMxZQ",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-evtekstili-koltuk-ortusu",
-			"bnrTxt": "",
-			"category": "Erkek"
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-1.jpg?context=bWFzdGVyfGJhbm5lcnN8MjU5NDMxfGltYWdlL2pwZWd8aGUzL2g5NS85OTE4MjMzMjQ3Nzc0LzEyNzB4NjAwcHhfMS5qcGd8ODY1MjU2MDQxNjE1NzM4NjE3YTljYzYyYTYyNDJmYThkNWIxMmEzMDUzMDMzNDY3ZjRhNGZkMjllNzZmYmE5OQ",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/mrk-kuruyemis-cesitleri",
-			"bnrTxt": "",
-			"category": "Et & Balık"
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjkyNTAwfGltYWdlL2pwZWd8aDRkL2g5Ni85OTE4MjMzMjgwNTQyLzEyNzB4NjAwcHhfMi5qcGd8NjdmZmRlOTJiYmEyNmJhMWJkNWM0YjY0YWNjY2RhMmY5ODJiNDVmY2I4OWFkNDNiMGI4ZmViN2E1M2M0ODhhYg",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/mgz-kadin-aksesuar-valiz",
-			"bnrTxt": ""
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-3.jpg?context=bWFzdGVyfGJhbm5lcnN8Mzk2MDg2fGltYWdlL2pwZWd8aGY0L2g5OC85OTE4MjMzMzEzMzEwLzEyNzB4NjAwcHhfMy5qcGd8NjE2NGU3MzhiYTY4ZjJhZDNlYjUyZDhmOTlmMDllODE4OGNmOTcxNjIzYjIxYTk5MTBiMDI3YWE5MjFhNjA4Mw",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/mgz-kadin-ayakkabi-terlik",
-			"bnrTxt": "",
-			"category": "Sandalet & Terlik"
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-1.jpg?context=bWFzdGVyfGJhbm5lcnN8MjU5NDMxfGltYWdlL2pwZWd8aDZhL2hiMS85OTE4NDk1OTgxNTk4LzEyNzB4NjAwcHhfMS5qcGd8MWIzN2Y1MWMwMjJjYzNmYjFkMDIzMDA3OTE2MDNiNTcxZWE4YzEzMzk2NTY4MmI2NjYxMWZmYjcxMmJjZDQ5Nw",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/mgz-erkek-giyim-gomlek",
-			"bnrTxt": "",
-			"category": "Erkek"
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjkyNTAwfGltYWdlL2pwZWd8aGI0L2g5Zi85OTE4NDk1NDI0NTQyLzEyNzB4NjAwcHhfMi5qcGd8ZmNmYWZjYzRiNjhjYTFjOTUwYjU5NDQzNDAwODdiZTdhODkzNTcyNDhhNGUyOGUxNjQwNDkzY2M0MDBjZGEwYQ",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-nisan-puma-underarmour",
-			"bnrTxt": "",
-			"category": "Giyim"
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-1.jpg?context=bWFzdGVyfGJhbm5lcnN8MjU5NDMxfGltYWdlL2pwZWd8aGNhL2hhMy85OTE4NDk1NTg4MzgyLzEyNzB4NjAwcHhfMS5qcGd8MzlmYmM0NzE0YjJkODRiYmQzMGNhMmQ1Mzg4NGU5NjAxYzI3OWY2Mjg3ZTA4NDY5MDU1MDNkMmFjNTc3YWI3Yg",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-gomlek-2c-lp",
-			"bnrTxt": "",
-			"category": "Giyim"
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjkyNTAwfGltYWdlL2pwZWd8aDg0L2hhNi85OTE4NDk1NjIxMTUwLzEyNzB4NjAwcHhfMi5qcGd8YWUyMTE0Y2M5MTcyZmExN2U2NTgyODVjM2MzZjM1MTg0ZTI5NDRmZDEwNzA1YTAzYWU3YTE3Yjc2Y2Y0YmM3Yw",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-kazak-hirka",
-			"bnrTxt": "",
-			"category": "Giyim"
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-1.jpg?context=bWFzdGVyfGJhbm5lcnN8MjU5NDMxfGltYWdlL2pwZWd8aDlhL2hhYS85OTE4NDk1Nzg0OTkwLzEyNzB4NjAwcHhfMS5qcGd8NDgzOTFhMzU2M2E0MWQyNGY2NDM4ZjY4ZTc2NThiMDI5MDJkOWY1YmNlZGNiOTcwMmZmNzcwMDhjY2M5ZTY5YQ",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/badge-mart-adidas-nike-25",
-			"bnrTxt": "",
-			"category": "Giyim"
-		}, {
-			"img": "https://img-ozdilekteyim-s1.mncdn.com/medias/1270x600px-2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjkyNTAwfGltYWdlL2pwZWd8aDQxL2hhZC85OTE4NDk1ODE3NzU4LzEyNzB4NjAwcHhfMi5qcGd8MzA1MjU4NGE0MTgzMDkxZTJiMWRiOTg3OGNjMTExM2QwM2I4NWE3NmRmNDE0ZWEzMmVlNWRkZDQ2MTY1NzNlZA",
-			"prm": "",
-			"actUrl": "ozd://magaza-magaza-store/listing/category/mgz-spor-outdoor-kamp-urunleri-kamp-mutfak-urunleri",
-			"bnrTxt": "",
-			"category": "Giyim"
-		}],
-		"filterLst": [{
-			"category": "Erkek",
-			"metaTitle": ""
-		}, {
-			"category": "Et & Balık",
-			"metaTitle": ""
-		}, {
-			"category": "Sandalet & Terlik",
-			"metaTitle": ""
-		}, {
-			"category": "Giyim",
-			"metaTitle": ""
-		}]
-	}
+    "code": 200,
+    "message": null,
+    "data": {
+        "pagination": {
+            "currentPage": 1,
+            "pageCount": 9
+        },
+        "metaCategory": {
+            "code": "mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi",
+            "customUrl": "nevresim-nevresim-takimi",
+            "metaDescription": "Kaliteli ve birbirinden güzel Nevresim & Nevresim Takımı modellerini incelemek için Özdilekteyim.com'u ziyaret edin!",
+            "metaTitle": "Nevresim & Nevresim Takımı Modelleri ve Fiyatları | Özdilekteyim.com",
+            "name": "Nevresim & Nevresim Takımı",
+            "url": "/nevresim-nevresim-takimi"
+        },
+        "title": "",
+        "count": 180,
+        "filters": [
+            {
+                "filterKey": "swatchColors",
+                "title": "Renkler",
+                "selectionType": "multi",
+                "isQuickFilter": false,
+                "count": 180,
+                "items": [
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:MAV%C4%B0",
+                        "title": "MAVİ",
+                        "selected": false,
+                        "count": 24
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:YE%C5%9E%C4%B0L",
+                        "title": "YEŞİL",
+                        "selected": false,
+                        "count": 24
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:PEMBE",
+                        "title": "PEMBE",
+                        "selected": false,
+                        "count": 16
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:BEYAZ",
+                        "title": "BEYAZ",
+                        "selected": false,
+                        "count": 13
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:LAC%C4%B0VERT",
+                        "title": "LACİVERT",
+                        "selected": false,
+                        "count": 13
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:BEJ",
+                        "title": "BEJ",
+                        "selected": false,
+                        "count": 12
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:GR%C4%B0",
+                        "title": "GRİ",
+                        "selected": false,
+                        "count": 11
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:KAHVE",
+                        "title": "KAHVE",
+                        "selected": false,
+                        "count": 10
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:MOR",
+                        "title": "MOR",
+                        "selected": false,
+                        "count": 7
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:S%C4%B0YAH",
+                        "title": "SİYAH",
+                        "selected": false,
+                        "count": 7
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:ORANJ",
+                        "title": "ORANJ",
+                        "selected": false,
+                        "count": 6
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:PETROL",
+                        "title": "PETROL",
+                        "selected": false,
+                        "count": 5
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:PUDRA",
+                        "title": "PUDRA",
+                        "selected": false,
+                        "count": 5
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:SARI",
+                        "title": "SARI",
+                        "selected": false,
+                        "count": 5
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:ANTRAS%C4%B0T",
+                        "title": "ANTRASİT",
+                        "selected": false,
+                        "count": 4
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:KREM",
+                        "title": "KREM",
+                        "selected": false,
+                        "count": 4
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:TURUNCU",
+                        "title": "TURUNCU",
+                        "selected": false,
+                        "count": 4
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:HARDAL",
+                        "title": "HARDAL",
+                        "selected": false,
+                        "count": 2
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:KIRMIZI",
+                        "title": "KIRMIZI",
+                        "selected": false,
+                        "count": 2
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:M%C3%9CRD%C3%9CM",
+                        "title": "MÜRDÜM",
+                        "selected": false,
+                        "count": 2
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:TAR%C3%87IN",
+                        "title": "TARÇIN",
+                        "selected": false,
+                        "count": 2
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:K%C4%B0REM%C4%B0T",
+                        "title": "KİREMİT",
+                        "selected": false,
+                        "count": 1
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:L%C4%B0LA",
+                        "title": "LİLA",
+                        "selected": false,
+                        "count": 1
+                    }
+                ]
+            },
+            {
+                "filterKey": "size",
+                "title": "Bedenler",
+                "selectionType": "multi",
+                "isQuickFilter": false,
+                "count": 181,
+                "items": [
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:size:180x220",
+                        "title": "180x220",
+                        "selected": false,
+                        "count": 7
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:size:BATTAL+BOY",
+                        "title": "BATTAL BOY",
+                        "selected": false,
+                        "count": 10
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:size:TEK+K%C4%B0%C5%9E%C4%B0L%C4%B0K",
+                        "title": "TEK KİŞİLİK",
+                        "selected": false,
+                        "count": 85
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:size:%C3%87%C4%B0FT+K%C4%B0%C5%9E%C4%B0L%C4%B0K",
+                        "title": "ÇİFT KİŞİLİK",
+                        "selected": false,
+                        "count": 79
+                    }
+                ]
+            },
+            {
+                "filterKey": "priceRangeValue",
+                "title": "Fiyat Aralığı",
+                "selectionType": "multi",
+                "isQuickFilter": false,
+                "count": 180,
+                "items": [
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:priceRangeValue:200+TL+-+499%2C99+TL",
+                        "title": "200 TL - 499,99 TL",
+                        "selected": false,
+                        "count": 18
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:priceRangeValue:500+TL+-+999%2C99+TL",
+                        "title": "500 TL - 999,99 TL",
+                        "selected": false,
+                        "count": 123
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:priceRangeValue:1.000+TL+ve+%C3%BCzeri",
+                        "title": "1.000 TL ve üzeri",
+                        "selected": false,
+                        "count": 39
+                    }
+                ]
+            },
+            {
+                "filterKey": "category",
+                "title": "Kategoriler",
+                "selectionType": "single",
+                "isQuickFilter": false,
+                "count": 205,
+                "items": [
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-ranforce-nevresim-takimi",
+                        "title": "Ranforce Nevresim Takımı",
+                        "selected": false,
+                        "count": 126
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-kapitone-nevresim-takimi",
+                        "title": "Kapitone Nevresim Takımı",
+                        "selected": false,
+                        "count": 19
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-fitted-carsafli-nevresim-takimi",
+                        "title": "Fitted Çarşaflı Nevresim Takımı",
+                        "selected": false,
+                        "count": 16
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-tek-nevresim",
+                        "title": "Tek Nevresim",
+                        "selected": false,
+                        "count": 14
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-saten-nevresim-takimi",
+                        "title": "Saten Nevresim Takımı",
+                        "selected": false,
+                        "count": 12
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-kislik-nevresim-takimi",
+                        "title": "Kışlık Nevresim Takımı",
+                        "selected": false,
+                        "count": 9
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-lisansli-nevresim-takimi",
+                        "title": "Lisanslı Nevresim Takımı",
+                        "selected": false,
+                        "count": 9
+                    }
+                ]
+            },
+            {
+                "filterKey": "brand",
+                "title": "Markalar",
+                "selectionType": "multi",
+                "isQuickFilter": false,
+                "count": 180,
+                "items": [
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:brand:%C3%96zdilek",
+                        "title": "Özdilek",
+                        "selected": false,
+                        "count": 164
+                    },
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:brand:Floretta",
+                        "title": "Floretta",
+                        "selected": false,
+                        "count": 16
+                    }
+                ]
+            },
+            {
+                "filterKey": "suitableForInstallment",
+                "title": "Taksitlendirme",
+                "selectionType": "multi",
+                "isQuickFilter": false,
+                "count": 180,
+                "items": [
+                    {
+                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:suitableForInstallment:true",
+                        "title": "Taksitli",
+                        "selected": false,
+                        "count": 180
+                    }
+                ]
+            }
+        ],
+        "products": [
+            {
+                "productId": "PR-EVTEKSTILI-57128201327GRI",
+                "name": "Özdilek Harry Potter Hogwarts Magic Tek Kişilik Lisanslı Fitted Çarşaf Çocuk Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTcyMDMxOXxpbWFnZS9qcGVnfGgwMS9oZTQvOTY4NDcwNTMxMjc5OHwxYWJlZGFjNWZkYTU2N2I3NGZjMzhmZDVjYWUyMTZlMDViZGJiMTY1ZjcyZjY4M2YwMzEyOTFiZGRiZTMwNjNk"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "849",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 849.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "849,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "1",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Lisanslı Ürünler",
+                    "Ranforce Nevresim Takımı",
+                    "Diğer Lisanslı Ürünler",
+                    "Lisanslı Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56721601327BEYAZ",
+                "name": "Özdilek Marco Rosa Çift Kişilik Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjY2NDM3fGltYWdlL2pwZWd8aDk5L2gzYi85NjkzMDAwNjk1ODM4fDcyOGE5MTU3NzNkNDE3N2YzOGU4NmIxMzdiY2M3NTA4ZGU5MjhhMDFiMmFiMjQyM2I3NDNmOGFjYjIwNTQ1ZjQ"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "990",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "00",
+                    "currency": "TL",
+                    "value": 990.0,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "990,00 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "1",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56309601327ANTRASIT",
+                "name": "Özdilek Trioline Çift Kişilik Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzMwODQyfGltYWdlL2pwZWd8aGI5L2hiNi85NjUxMDM2OTEzNjk0fDc4NzQyZmRiZTYwMzBhNmMzZjkxZjkyZmE2OTkwMTJlNTRiZDdmNjQwYjU5ODY1ZWUyM2M1ZWRjZDA2NzBlYjI"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "990",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "00",
+                    "currency": "TL",
+                    "value": 990.0,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "990,00 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "6",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56308901327MOR",
+                "name": "Özdilek Trioline Tek Kişilik Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzMwNDk5fGltYWdlL2pwZWd8aGY1L2g4NS85NjUxMDM4NDg2NTU4fDJhY2M0YmQwM2Q5MjEwMDE0MTgzNGU3MmRhNWU0OGVkOWZlYWNjZmUzYzJhNmU1OTUxYzE3YjQzZmIzZWY3MDU"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "769",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 769.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "769,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "6",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56308901327ANTRASIT",
+                "name": "Özdilek Trioline Tek Kişilik Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzMwODQyfGltYWdlL2pwZWd8aDBhL2hhMy85NjUxMDM2Mzg5NDA2fGM4MjFhNGExMjkzM2FlNDI4MDI5ZDllNjE1OWU1NGE2ZDhjMWY5OWM1M2JjZTI2NjkwNTVmYzY2YmMxNDVjNWI"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "769",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 769.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "769,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "6",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56309601327MOR",
+                "name": "Özdilek Trioline Çift Kişilik Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzMwNDk5fGltYWdlL2pwZWd8aDlhL2gyYS85NjUxMDM5MDEwODQ2fGM1NTllMzY2YTMyNjc5MmRjZDk5NmY0YzJjNGFmZTQwMjUxMDAxN2VlNDU2MmRkNGZhODc2ODRmMjJmMTcyMzI"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "990",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "00",
+                    "currency": "TL",
+                    "value": 990.0,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "990,00 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "6",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56303401327ORANJ",
+                "name": "Özdilek Kudonta Çift Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3MDcyNXxpbWFnZS9qcGVnfGhlZS9oOGMvOTY1MTAzMzc2Nzk2Nnw5ZTU3MTdkZmUxMGZlOWE3NmU1NzRlODc3NDY3NWU4ZDI1NTRhNmQwYjkwOTAxMjljZTNjZGQ2ODVjOTFiODky"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "599",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 599.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "599,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "2",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56199301327PEMBE",
+                "name": "Özdilek Nemesia Çift Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjQ5NTgzfGltYWdlL2pwZWd8aGNkL2gzMS85NjUxMDMwNjIyMjM4fGJjYzU4OTZmNTc3YmNkNTUzNTllNWE2YjYyNmFiZDY2ZDI3MmQ4MGQzYWJiZjEzNGUzYTYzYzExNDk1YTJjMGI"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "599",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 599.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "599,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "1",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56302701327YESIL",
+                "name": "Özdilek Kudonta Tek Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ1NzAwMnxpbWFnZS9qcGVnfGhlMi9oMzMvOTY1MTAzNDI5MjI1NHxjN2Q5ZDA4MDJiODE4YjczZWJhNDhlM2ExMjI4OGE5YjgxOTk5Mjc0MmQ0YTRhZjhlZDM0NTViYmVlZDgxMzZm"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "469",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 469.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "469,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "2",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56201301327MAVI",
+                "name": "Özdilek Cuadrado Çift Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxMTcxfGltYWdlL2pwZWd8aDI0L2g5Yy85NjUxMDMxNjcwODE0fGNhODRhYjRjMDNjYzFjZGU0MjA3MTI3OTA2NzcyZTc0OTllMDRiZDhiZTMzZDE5ZTc2MzU3ZGFlYTJmNTAxNDg"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "599",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 599.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "599,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "2",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56303401327YESIL",
+                "name": "Özdilek Kudonta Çift Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ1NzAwMnxpbWFnZS9qcGVnfGg0NS9oMjAvOTY1MTAzNDgxNjU0Mnw3MGFlN2JiNWFiOWFmMmExNTYzN2I4Njg3MWViYTg2MGVkOGUyZTVjODk2MTBjMDk2MDIzMDYzZGU1Y2UwZTBh"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "599",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 599.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "599,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "2",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56100901327BEYAZ",
+                "name": "Özdilek Jardin De Flor Çift Kişilik Lastikli Fitted Çarşaf Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8ODQ5NTk3fGltYWdlL2pwZWd8aDcyL2gxZS85NjQ2ODI3MzA3MDM4fDA5YWI0MGJiMTE0NTZjNDM2NzlkMmYyN2M3Yzk2Y2ZiOTk0NTc0NmU1MWZjMDdlYjk3MGIyZDkyZWQ4NzEzNDg"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "990",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "00",
+                    "currency": "TL",
+                    "value": 990.0,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "990,00 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "1",
+                "categories": [
+                    "Fitted Çarşaflı Nevresim Takımı",
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-55474201327SARI",
+                "name": "Özdilek Minnie Mouse Happy Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Kapitone Çocuk Nevresi",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzgzNDgyfGltYWdlL2pwZWd8aDFhL2hmZi85NjUxMDI0MzMwNzgyfDVlYmQ5MDVhNzBiYWQxNDhlNmMxZDI3NDA1YjJmMGI0Mzg1ZDI3NjhhYjkxNzQ0MzRjZDhiYzliOGUwMzg3Y2I"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "1.349",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "00",
+                    "currency": "TL",
+                    "value": 1349.0,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "1.349,00 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "1",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Lisanslı Ürünler",
+                    "Kapitone Nevresim Takımı",
+                    "Disney Lisanslı Ürünler",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56646201327BEYAZ",
+                "name": "Özdilek Priano Çift Kişilik Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzA1NTc0fGltYWdlL2pwZWd8aDRkL2gxOS85NjUxMDM5NTM1MTM0fGZlMjdhYWJjN2MyYWYyNGJjNWM5ZTA0M2E4MWVlOTE4NmYzNzdmOTUzNzRmZmJjOTYxNGNmZjVmY2M2NzNhOTI"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "990",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "00",
+                    "currency": "TL",
+                    "value": 990.0,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "990,00 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "1",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56200601327MAVI",
+                "name": "Özdilek Cuadrado Tek Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxMTcxfGltYWdlL2pwZWd8aGM1L2g4YS85NjUxMDMxMTQ2NTI2fDI1NTlhYzU3NWE5NmY4NTlmYmJmZDFkYzdkOGY3ZWFmMGQ2ZjRmYTk1MzM1ZDQyMTJkMjc0OTZlY2Y0ZGM4YTQ"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "469",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 469.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "469,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "2",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56198601327PEMBE",
+                "name": "Özdilek Nemesia Tek Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjQ5NTgzfGltYWdlL2pwZWd8aDFkL2gxZS85NjUxMDMwMDk3OTUwfGUwY2Y1MjkwZTE2MDgxMGEzMjJjNmZhMmQyYmYzMThkZjI2NTlmNzgxZTg2MjNhNjc5ZWFiYTI3YTBmMTdlZWQ"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "469",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 469.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "469,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "1",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56309601327YESIL",
+                "name": "Özdilek Trioline Çift Kişilik Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzY1NjkzfGltYWdlL2pwZWd8aGVkL2hkZS85NjUxMDM3OTYyMjcwfDVmZGM5NDkxZjE3NTVhNDA0OTUwYThmMmFhZDVhMjc3MWZkZTU5MDY3NjI3MGIzZmE3NTYzYTRiYzQxYTJiMjI"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "990",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "00",
+                    "currency": "TL",
+                    "value": 990.0,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "990,00 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "6",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56099601327BEYAZ",
+                "name": "Özdilek Jardin De Flor Tek Kişilik Lastikli Fitted Çarşaf Nevresim Takımı",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8ODQ5NTk3fGltYWdlL2pwZWd8aGJiL2g3OS85NjQ2ODI2NzgyNzUwfDM5ODhlMzhjNmYzODc5ZDNhYjViMzAwYjY2MGVmMTllYjYyMjdiNDA5MDdlNWRjMjNlOGJiZjEyZWRkZWIyYzc"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "769",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 769.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "769,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "1",
+                "categories": [
+                    "Fitted Çarşaflı Nevresim Takımı",
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56302701327ORANJ",
+                "name": "Özdilek Kudonta Tek Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3MDcyNXxpbWFnZS9qcGVnfGgzYS9oOWUvOTY1MTAzMzI0MzY3OHwwZWQ1NDE4MmM1MTE4NzE3NjI4MjhiZjU0NzJiZjQ5ZGUxZTJkZWQ1ZGM3ZDVhY2ZiYTg3M2VkMmY5YmU3YmQx"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "469",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 469.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "469,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "2",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            },
+            {
+                "productId": "PR-EVTEKSTILI-56200601327TURUNCU",
+                "name": "Özdilek Cuadrado Tek Kişilik Nevresim Seti",
+                "images": [
+                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTcxODYwfGltYWdlL2pwZWd8aDFkL2hmNS85NjUxMDMyMTk1MTAyfDdjMjU4ZmNkY2JiMmU0YmE5NTdiMTNlZTYyYjZkNTBjNzBiMzU4MDUxMmFiMDdlYTdhMjUzZmJmNTgyYjUyZjE"
+                ],
+                "price": {
+                    "discountRate": null,
+                    "oldPrice": null,
+                    "currentPriceWholeNumber": "469",
+                    "separator": ",",
+                    "currentPriceDecimalNUmber": "95",
+                    "currency": "TL",
+                    "value": 469.95,
+                    "firebaseCurrency": "TRY",
+                    "formattedValue": "469,95 TL",
+                    "isPriceRange": false
+                },
+                "isQuantityPickerVisible": false,
+                "quantityPickerProperties": {
+                    "minimumQuantity": 1,
+                    "maxQuantity": 100,
+                    "defaultQuantity": 1,
+                    "incrementValue": 1,
+                    "unit": {
+                        "type": "AD",
+                        "text": "Adet"
+                    }
+                },
+                "colorCount": "2",
+                "categories": [
+                    "Nevresim & Nevresim Takımı",
+                    "Yatak Odası Tekstili",
+                    "Ranforce Nevresim Takımı",
+                    "Ev Tekstili"
+                ]
+            }
+        ],
+        "sorting": [
+            {
+                "key": "topRated",
+                "name": "Çok Satanlar",
+                "selected": false
+            },
+            {
+                "key": "name-asc",
+                "name": "Ürün Adı (Artan)",
+                "selected": false
+            },
+            {
+                "key": "name-desc",
+                "name": "Ürün Adı (Azalan)",
+                "selected": false
+            },
+            {
+                "key": "price-asc",
+                "name": "Fiyat (Artan)",
+                "selected": false
+            },
+            {
+                "key": "price-desc",
+                "name": "Fiyat (Azalan)",
+                "selected": false
+            },
+            {
+                "key": "smartSort",
+                "name": "Akıllı Sıralama",
+                "selected": false
+            },
+            {
+                "key": "rating-asc",
+                "name": "Ürün Puanı (Artan)",
+                "selected": false
+            },
+            {
+                "key": "rating-desc",
+                "name": "Ürün Puanı (Azalan)",
+                "selected": false
+            },
+            {
+                "key": "discount-asc",
+                "name": "İndirim Oranı (Artan)",
+                "selected": false
+            },
+            {
+                "key": "discount-desc",
+                "name": "İndirim Oranı (Azalan)",
+                "selected": false
+            }
+        ]
+    }
 }
