@@ -20,7 +20,7 @@
             {
                 "filterKey": "swatchColors",
                 "title": "Renkler",
-                "selectionType": "multi",
+                "selectionType": "toggle",
                 "isQuickFilter": true,
                 "count": 180,
                 "items": [
@@ -227,7 +227,7 @@
             {
                 "filterKey": "category",
                 "title": "Kategoriler",
-                "selectionType": "single",
+                "selectionType": "toggle",
                 "isQuickFilter": true,
                 "count": 205,
                 "items": [
@@ -299,7 +299,7 @@
             {
                 "filterKey": "suitableForInstallment",
                 "title": "Taksitlendirme",
-                "selectionType": "multi",
+                "selectionType": "toggle",
                 "isQuickFilter": true,
                 "count": 180,
                 "items": [
