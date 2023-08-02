@@ -20,7 +20,7 @@
             {
                 "filterKey": "swatchColors",
                 "title": "Renkler",
-                "selectionType": "toggle",
+                "selectionType": "multi",
                 "isQuickFilter": true,
                 "count": 180,
                 "items": [
