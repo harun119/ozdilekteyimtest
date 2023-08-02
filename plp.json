@@ -200,7 +200,7 @@
             {
                 "filterKey": "priceRangeValue",
                 "title": "Fiyat Aralığı",
-                "selectionType": "multi",
+                "selectionType": "single",
                 "isQuickFilter": true,
                 "count": 180,
                 "items": [
@@ -278,7 +278,7 @@
             {
                 "filterKey": "brand",
                 "title": "Markalar",
-                "selectionType": "multi",
+                "selectionType": "single",
                 "isQuickFilter": true,
                 "count": 180,
                 "items": [
