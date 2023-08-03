@@ -1,1117 +1,2033 @@
 {
-    "code": 200,
-    "message": null,
-    "data": {
-        "pagination": {
-            "currentPage": 1,
-            "pageCount": 9
-        },
-        "metaCategory": {
-            "code": "mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi",
-            "customUrl": "nevresim-nevresim-takimi",
-            "metaDescription": "Kaliteli ve birbirinden güzel Nevresim & Nevresim Takımı modellerini incelemek için Özdilekteyim.com'u ziyaret edin!",
-            "metaTitle": "Nevresim & Nevresim Takımı Modelleri ve Fiyatları | Özdilekteyim.com",
-            "name": "Nevresim & Nevresim Takımı",
-            "url": "/nevresim-nevresim-takimi"
-        },
-        "title": "",
-        "count": 180,
-        "filters": [
-            {
-                "filterKey": "swatchColors",
-                "title": "Renkler",
-                "selectionType": "multi",
-                "isQuickFilter": true,
-                "count": 180,
-                "items": [
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:MAV%C4%B0",
-                        "title": "MAVİ",
-                        "selected": false,
-                        "count": 24
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:YE%C5%9E%C4%B0L",
-                        "title": "YEŞİL",
-                        "selected": false,
-                        "count": 24
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:PEMBE",
-                        "title": "PEMBE",
-                        "selected": false,
-                        "count": 16
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:BEYAZ",
-                        "title": "BEYAZ",
-                        "selected": false,
-                        "count": 13
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:LAC%C4%B0VERT",
-                        "title": "LACİVERT",
-                        "selected": false,
-                        "count": 13
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:BEJ",
-                        "title": "BEJ",
-                        "selected": false,
-                        "count": 12
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:GR%C4%B0",
-                        "title": "GRİ",
-                        "selected": false,
-                        "count": 11
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:KAHVE",
-                        "title": "KAHVE",
-                        "selected": false,
-                        "count": 10
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:MOR",
-                        "title": "MOR",
-                        "selected": false,
-                        "count": 7
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:S%C4%B0YAH",
-                        "title": "SİYAH",
-                        "selected": false,
-                        "count": 7
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:ORANJ",
-                        "title": "ORANJ",
-                        "selected": false,
-                        "count": 6
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:PETROL",
-                        "title": "PETROL",
-                        "selected": false,
-                        "count": 5
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:PUDRA",
-                        "title": "PUDRA",
-                        "selected": false,
-                        "count": 5
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:SARI",
-                        "title": "SARI",
-                        "selected": false,
-                        "count": 5
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:ANTRAS%C4%B0T",
-                        "title": "ANTRASİT",
-                        "selected": false,
-                        "count": 4
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:KREM",
-                        "title": "KREM",
-                        "selected": false,
-                        "count": 4
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:TURUNCU",
-                        "title": "TURUNCU",
-                        "selected": false,
-                        "count": 4
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:HARDAL",
-                        "title": "HARDAL",
-                        "selected": false,
-                        "count": 2
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:KIRMIZI",
-                        "title": "KIRMIZI",
-                        "selected": false,
-                        "count": 2
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:M%C3%9CRD%C3%9CM",
-                        "title": "MÜRDÜM",
-                        "selected": false,
-                        "count": 2
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:TAR%C3%87IN",
-                        "title": "TARÇIN",
-                        "selected": false,
-                        "count": 2
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:K%C4%B0REM%C4%B0T",
-                        "title": "KİREMİT",
-                        "selected": false,
-                        "count": 1
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:swatchColors:L%C4%B0LA",
-                        "title": "LİLA",
-                        "selected": false,
-                        "count": 1
-                    }
-                ]
-            },
-            {
-                "filterKey": "size",
-                "title": "Bedenler",
-                "selectionType": "multi",
-                "isQuickFilter": true,
-                "count": 181,
-                "items": [
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:size:180x220",
-                        "title": "180x220",
-                        "selected": false,
-                        "count": 7
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:size:BATTAL+BOY",
-                        "title": "BATTAL BOY",
-                        "selected": false,
-                        "count": 10
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:size:TEK+K%C4%B0%C5%9E%C4%B0L%C4%B0K",
-                        "title": "TEK KİŞİLİK",
-                        "selected": false,
-                        "count": 85
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:size:%C3%87%C4%B0FT+K%C4%B0%C5%9E%C4%B0L%C4%B0K",
-                        "title": "ÇİFT KİŞİLİK",
-                        "selected": false,
-                        "count": 79
-                    }
-                ]
-            },
-            {
-                "filterKey": "priceRangeValue",
-                "title": "Fiyat Aralığı",
-                "selectionType": "single",
-                "isQuickFilter": true,
-                "count": 180,
-                "items": [
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:priceRangeValue:200+TL+-+499%2C99+TL",
-                        "title": "200 TL - 499,99 TL",
-                        "selected": false,
-                        "count": 18
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:priceRangeValue:500+TL+-+999%2C99+TL",
-                        "title": "500 TL - 999,99 TL",
-                        "selected": false,
-                        "count": 123
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:priceRangeValue:1.000+TL+ve+%C3%BCzeri",
-                        "title": "1.000 TL ve üzeri",
-                        "selected": false,
-                        "count": 39
-                    }
-                ]
-            },
-            {
-                "filterKey": "category",
-                "title": "Kategoriler",
-                "selectionType": "toggle",
-                "isQuickFilter": true,
-                "count": 205,
-                "items": [
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-ranforce-nevresim-takimi",
-                        "title": "Ranforce Nevresim Takımı",
-                        "selected": false,
-                        "count": 126
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-kapitone-nevresim-takimi",
-                        "title": "Kapitone Nevresim Takımı",
-                        "selected": false,
-                        "count": 19
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-fitted-carsafli-nevresim-takimi",
-                        "title": "Fitted Çarşaflı Nevresim Takımı",
-                        "selected": false,
-                        "count": 16
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-tek-nevresim",
-                        "title": "Tek Nevresim",
-                        "selected": false,
-                        "count": 14
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-saten-nevresim-takimi",
-                        "title": "Saten Nevresim Takımı",
-                        "selected": false,
-                        "count": 12
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-kislik-nevresim-takimi",
-                        "title": "Kışlık Nevresim Takımı",
-                        "selected": false,
-                        "count": 9
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:category:mgz-evtekstili-yatak-odasi-tekstili-lisansli-nevresim-takimi",
-                        "title": "Lisanslı Nevresim Takımı",
-                        "selected": false,
-                        "count": 9
-                    }
-                ]
-            },
-            {
-                "filterKey": "brand",
-                "title": "Markalar",
-                "selectionType": "single",
-                "isQuickFilter": true,
-                "count": 180,
-                "items": [
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:brand:%C3%96zdilek",
-                        "title": "Özdilek",
-                        "selected": false,
-                        "count": 164
-                    },
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:brand:Floretta",
-                        "title": "Floretta",
-                        "selected": false,
-                        "count": 16
-                    }
-                ]
-            },
-            {
-                "filterKey": "suitableForInstallment",
-                "title": "Taksitlendirme",
-                "selectionType": "toggle",
-                "isQuickFilter": true,
-                "count": 180,
-                "items": [
-                    {
-                        "value": ":relevance:allCategories:mgz-evtekstili-yatak-odasi-tekstili-nevresim-takimi:suitableForInstallment:true",
-                        "title": "Taksitli",
-                        "selected": false,
-                        "count": 180
-                    }
-                ]
-            }
-        ],
-        "products": [
-            {
-                "productId": "PR-EVTEKSTILI-57128201327GRI",
-                "name": "Özdilek Harry Potter Hogwarts Magic Tek Kişilik Lisanslı Fitted Çarşaf Çocuk Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTcyMDMxOXxpbWFnZS9qcGVnfGgwMS9oZTQvOTY4NDcwNTMxMjc5OHwxYWJlZGFjNWZkYTU2N2I3NGZjMzhmZDVjYWUyMTZlMDViZGJiMTY1ZjcyZjY4M2YwMzEyOTFiZGRiZTMwNjNk"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "849",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 849.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "849,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "1",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Lisanslı Ürünler",
-                    "Ranforce Nevresim Takımı",
-                    "Diğer Lisanslı Ürünler",
-                    "Lisanslı Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56721601327BEYAZ",
-                "name": "Özdilek Marco Rosa Çift Kişilik Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjY2NDM3fGltYWdlL2pwZWd8aDk5L2gzYi85NjkzMDAwNjk1ODM4fDcyOGE5MTU3NzNkNDE3N2YzOGU4NmIxMzdiY2M3NTA4ZGU5MjhhMDFiMmFiMjQyM2I3NDNmOGFjYjIwNTQ1ZjQ"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "990",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "00",
-                    "currency": "TL",
-                    "value": 990.0,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "990,00 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "1",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56309601327ANTRASIT",
-                "name": "Özdilek Trioline Çift Kişilik Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzMwODQyfGltYWdlL2pwZWd8aGI5L2hiNi85NjUxMDM2OTEzNjk0fDc4NzQyZmRiZTYwMzBhNmMzZjkxZjkyZmE2OTkwMTJlNTRiZDdmNjQwYjU5ODY1ZWUyM2M1ZWRjZDA2NzBlYjI"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "990",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "00",
-                    "currency": "TL",
-                    "value": 990.0,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "990,00 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "6",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56308901327MOR",
-                "name": "Özdilek Trioline Tek Kişilik Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzMwNDk5fGltYWdlL2pwZWd8aGY1L2g4NS85NjUxMDM4NDg2NTU4fDJhY2M0YmQwM2Q5MjEwMDE0MTgzNGU3MmRhNWU0OGVkOWZlYWNjZmUzYzJhNmU1OTUxYzE3YjQzZmIzZWY3MDU"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "769",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 769.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "769,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "6",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56308901327ANTRASIT",
-                "name": "Özdilek Trioline Tek Kişilik Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzMwODQyfGltYWdlL2pwZWd8aDBhL2hhMy85NjUxMDM2Mzg5NDA2fGM4MjFhNGExMjkzM2FlNDI4MDI5ZDllNjE1OWU1NGE2ZDhjMWY5OWM1M2JjZTI2NjkwNTVmYzY2YmMxNDVjNWI"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "769",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 769.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "769,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "6",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56309601327MOR",
-                "name": "Özdilek Trioline Çift Kişilik Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzMwNDk5fGltYWdlL2pwZWd8aDlhL2gyYS85NjUxMDM5MDEwODQ2fGM1NTllMzY2YTMyNjc5MmRjZDk5NmY0YzJjNGFmZTQwMjUxMDAxN2VlNDU2MmRkNGZhODc2ODRmMjJmMTcyMzI"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "990",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "00",
-                    "currency": "TL",
-                    "value": 990.0,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "990,00 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "6",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56303401327ORANJ",
-                "name": "Özdilek Kudonta Çift Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3MDcyNXxpbWFnZS9qcGVnfGhlZS9oOGMvOTY1MTAzMzc2Nzk2Nnw5ZTU3MTdkZmUxMGZlOWE3NmU1NzRlODc3NDY3NWU4ZDI1NTRhNmQwYjkwOTAxMjljZTNjZGQ2ODVjOTFiODky"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "599",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 599.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "599,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "2",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56199301327PEMBE",
-                "name": "Özdilek Nemesia Çift Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjQ5NTgzfGltYWdlL2pwZWd8aGNkL2gzMS85NjUxMDMwNjIyMjM4fGJjYzU4OTZmNTc3YmNkNTUzNTllNWE2YjYyNmFiZDY2ZDI3MmQ4MGQzYWJiZjEzNGUzYTYzYzExNDk1YTJjMGI"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "599",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 599.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "599,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "1",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56302701327YESIL",
-                "name": "Özdilek Kudonta Tek Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ1NzAwMnxpbWFnZS9qcGVnfGhlMi9oMzMvOTY1MTAzNDI5MjI1NHxjN2Q5ZDA4MDJiODE4YjczZWJhNDhlM2ExMjI4OGE5YjgxOTk5Mjc0MmQ0YTRhZjhlZDM0NTViYmVlZDgxMzZm"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "469",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 469.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "469,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "2",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56201301327MAVI",
-                "name": "Özdilek Cuadrado Çift Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxMTcxfGltYWdlL2pwZWd8aDI0L2g5Yy85NjUxMDMxNjcwODE0fGNhODRhYjRjMDNjYzFjZGU0MjA3MTI3OTA2NzcyZTc0OTllMDRiZDhiZTMzZDE5ZTc2MzU3ZGFlYTJmNTAxNDg"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "599",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 599.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "599,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "2",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56303401327YESIL",
-                "name": "Özdilek Kudonta Çift Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ1NzAwMnxpbWFnZS9qcGVnfGg0NS9oMjAvOTY1MTAzNDgxNjU0Mnw3MGFlN2JiNWFiOWFmMmExNTYzN2I4Njg3MWViYTg2MGVkOGUyZTVjODk2MTBjMDk2MDIzMDYzZGU1Y2UwZTBh"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "599",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 599.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "599,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "2",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56100901327BEYAZ",
-                "name": "Özdilek Jardin De Flor Çift Kişilik Lastikli Fitted Çarşaf Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8ODQ5NTk3fGltYWdlL2pwZWd8aDcyL2gxZS85NjQ2ODI3MzA3MDM4fDA5YWI0MGJiMTE0NTZjNDM2NzlkMmYyN2M3Yzk2Y2ZiOTk0NTc0NmU1MWZjMDdlYjk3MGIyZDkyZWQ4NzEzNDg"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "990",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "00",
-                    "currency": "TL",
-                    "value": 990.0,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "990,00 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "1",
-                "categories": [
-                    "Fitted Çarşaflı Nevresim Takımı",
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-55474201327SARI",
-                "name": "Özdilek Minnie Mouse Happy Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Kapitone Çocuk Nevresi",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzgzNDgyfGltYWdlL2pwZWd8aDFhL2hmZi85NjUxMDI0MzMwNzgyfDVlYmQ5MDVhNzBiYWQxNDhlNmMxZDI3NDA1YjJmMGI0Mzg1ZDI3NjhhYjkxNzQ0MzRjZDhiYzliOGUwMzg3Y2I"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "1.349",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "00",
-                    "currency": "TL",
-                    "value": 1349.0,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "1.349,00 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "1",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Lisanslı Ürünler",
-                    "Kapitone Nevresim Takımı",
-                    "Disney Lisanslı Ürünler",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56646201327BEYAZ",
-                "name": "Özdilek Priano Çift Kişilik Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzA1NTc0fGltYWdlL2pwZWd8aDRkL2gxOS85NjUxMDM5NTM1MTM0fGZlMjdhYWJjN2MyYWYyNGJjNWM5ZTA0M2E4MWVlOTE4NmYzNzdmOTUzNzRmZmJjOTYxNGNmZjVmY2M2NzNhOTI"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "990",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "00",
-                    "currency": "TL",
-                    "value": 990.0,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "990,00 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "1",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56200601327MAVI",
-                "name": "Özdilek Cuadrado Tek Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxMTcxfGltYWdlL2pwZWd8aGM1L2g4YS85NjUxMDMxMTQ2NTI2fDI1NTlhYzU3NWE5NmY4NTlmYmJmZDFkYzdkOGY3ZWFmMGQ2ZjRmYTk1MzM1ZDQyMTJkMjc0OTZlY2Y0ZGM4YTQ"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "469",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 469.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "469,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "2",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56198601327PEMBE",
-                "name": "Özdilek Nemesia Tek Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjQ5NTgzfGltYWdlL2pwZWd8aDFkL2gxZS85NjUxMDMwMDk3OTUwfGUwY2Y1MjkwZTE2MDgxMGEzMjJjNmZhMmQyYmYzMThkZjI2NTlmNzgxZTg2MjNhNjc5ZWFiYTI3YTBmMTdlZWQ"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "469",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 469.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "469,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "1",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56309601327YESIL",
-                "name": "Özdilek Trioline Çift Kişilik Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzY1NjkzfGltYWdlL2pwZWd8aGVkL2hkZS85NjUxMDM3OTYyMjcwfDVmZGM5NDkxZjE3NTVhNDA0OTUwYThmMmFhZDVhMjc3MWZkZTU5MDY3NjI3MGIzZmE3NTYzYTRiYzQxYTJiMjI"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "990",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "00",
-                    "currency": "TL",
-                    "value": 990.0,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "990,00 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "6",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56099601327BEYAZ",
-                "name": "Özdilek Jardin De Flor Tek Kişilik Lastikli Fitted Çarşaf Nevresim Takımı",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8ODQ5NTk3fGltYWdlL2pwZWd8aGJiL2g3OS85NjQ2ODI2NzgyNzUwfDM5ODhlMzhjNmYzODc5ZDNhYjViMzAwYjY2MGVmMTllYjYyMjdiNDA5MDdlNWRjMjNlOGJiZjEyZWRkZWIyYzc"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "769",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 769.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "769,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "1",
-                "categories": [
-                    "Fitted Çarşaflı Nevresim Takımı",
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56302701327ORANJ",
-                "name": "Özdilek Kudonta Tek Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3MDcyNXxpbWFnZS9qcGVnfGgzYS9oOWUvOTY1MTAzMzI0MzY3OHwwZWQ1NDE4MmM1MTE4NzE3NjI4MjhiZjU0NzJiZjQ5ZGUxZTJkZWQ1ZGM3ZDVhY2ZiYTg3M2VkMmY5YmU3YmQx"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "469",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 469.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "469,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "2",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            },
-            {
-                "productId": "PR-EVTEKSTILI-56200601327TURUNCU",
-                "name": "Özdilek Cuadrado Tek Kişilik Nevresim Seti",
-                "images": [
-                    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTcxODYwfGltYWdlL2pwZWd8aDFkL2hmNS85NjUxMDMyMTk1MTAyfDdjMjU4ZmNkY2JiMmU0YmE5NTdiMTNlZTYyYjZkNTBjNzBiMzU4MDUxMmFiMDdlYTdhMjUzZmJmNTgyYjUyZjE"
-                ],
-                "price": {
-                    "discountRate": null,
-                    "oldPrice": null,
-                    "currentPriceWholeNumber": "469",
-                    "separator": ",",
-                    "currentPriceDecimalNUmber": "95",
-                    "currency": "TL",
-                    "value": 469.95,
-                    "firebaseCurrency": "TRY",
-                    "formattedValue": "469,95 TL",
-                    "isPriceRange": false
-                },
-                "isQuantityPickerVisible": false,
-                "quantityPickerProperties": {
-                    "minimumQuantity": 1,
-                    "maxQuantity": 100,
-                    "defaultQuantity": 1,
-                    "incrementValue": 1,
-                    "unit": {
-                        "type": "AD",
-                        "text": "Adet"
-                    }
-                },
-                "colorCount": "2",
-                "categories": [
-                    "Nevresim & Nevresim Takımı",
-                    "Yatak Odası Tekstili",
-                    "Ranforce Nevresim Takımı",
-                    "Ev Tekstili"
-                ]
-            }
-        ],
-        "sorting": [
-            {
-                "key": "topRated",
-                "name": "Çok Satanlar",
-                "selected": false
-            },
-            {
-                "key": "name-asc",
-                "name": "Ürün Adı (Artan)",
-                "selected": false
-            },
-            {
-                "key": "name-desc",
-                "name": "Ürün Adı (Azalan)",
-                "selected": false
-            },
-            {
-                "key": "price-asc",
-                "name": "Fiyat (Artan)",
-                "selected": false
-            },
-            {
-                "key": "price-desc",
-                "name": "Fiyat (Azalan)",
-                "selected": false
-            },
-            {
-                "key": "smartSort",
-                "name": "Akıllı Sıralama",
-                "selected": false
-            },
-            {
-                "key": "rating-asc",
-                "name": "Ürün Puanı (Artan)",
-                "selected": false
-            },
-            {
-                "key": "rating-desc",
-                "name": "Ürün Puanı (Azalan)",
-                "selected": false
-            },
-            {
-                "key": "discount-asc",
-                "name": "İndirim Oranı (Artan)",
-                "selected": false
-            },
-            {
-                "key": "discount-desc",
-                "name": "İndirim Oranı (Azalan)",
-                "selected": false
-            }
-        ]
-    }
+	"code": 200,
+	"message": null,
+	"data": {
+		"pagination": {
+			"currentPage": 0,
+			"pageCount": 72
+		},
+		"metaCategory": {
+			"code": "mgz-kadin-giyim",
+			"customUrl": "giyim-3",
+			"metaDescription": "Kaliteli ve birbirinden güzel Kadın Giyim modellerini incelemek için Özdilekteyim.com'u ziyaret edin!",
+			"metaTitle": "Kadın Giyim Modelleri ve Fiyatları | Özdilekteyim.com",
+			"name": "Giyim",
+			"url": "/giyim-3"
+		},
+		"title": "",
+		"count": 1431,
+		"filters": [{
+				"filterKey": "swatchColors",
+				"title": "Renkler",
+				"selectionType": "multi",
+				"isQuickFilter": true,
+				"count": 1431,
+				"items": [{
+						"value": "swatchColors:SİYAH",
+						"title": "SİYAH",
+						"selected": false,
+						"count": 395
+					},
+					{
+						"value": "swatchColors:BEYAZ",
+						"title": "BEYAZ",
+						"selected": false,
+						"count": 109
+					},
+					{
+						"value": "swatchColors:EKRU",
+						"title": "EKRU",
+						"selected": false,
+						"count": 94
+					},
+					{
+						"value": "swatchColors:MAVİ",
+						"title": "MAVİ",
+						"selected": false,
+						"count": 90
+					},
+					{
+						"value": "swatchColors:YEŞİL",
+						"title": "YEŞİL",
+						"selected": false,
+						"count": 79
+					},
+					{
+						"value": "swatchColors:LACİVERT",
+						"title": "LACİVERT",
+						"selected": false,
+						"count": 57
+					},
+					{
+						"value": "swatchColors:BEJ",
+						"title": "BEJ",
+						"selected": false,
+						"count": 50
+					},
+					{
+						"value": "swatchColors:HAKİ",
+						"title": "HAKİ",
+						"selected": false,
+						"count": 41
+					},
+					{
+						"value": "swatchColors:PEMBE",
+						"title": "PEMBE",
+						"selected": false,
+						"count": 41
+					},
+					{
+						"value": "swatchColors:KIRMIZI",
+						"title": "KIRMIZI",
+						"selected": false,
+						"count": 38
+					},
+					{
+						"value": "swatchColors:SAKS",
+						"title": "SAKS",
+						"selected": false,
+						"count": 30
+					},
+					{
+						"value": "swatchColors:FUŞYA",
+						"title": "FUŞYA",
+						"selected": false,
+						"count": 28
+					},
+					{
+						"value": "swatchColors:INDIGO",
+						"title": "INDIGO",
+						"selected": false,
+						"count": 26
+					},
+					{
+						"value": "swatchColors:SARI",
+						"title": "SARI",
+						"selected": false,
+						"count": 26
+					},
+					{
+						"value": "swatchColors:TURUNCU",
+						"title": "TURUNCU",
+						"selected": false,
+						"count": 22
+					},
+					{
+						"value": "swatchColors:DENIM",
+						"title": "DENIM",
+						"selected": false,
+						"count": 20
+					},
+					{
+						"value": "swatchColors:GRİ MELANJ",
+						"title": "GRİ MELANJ",
+						"selected": false,
+						"count": 19
+					},
+					{
+						"value": "swatchColors:ANTRASİT",
+						"title": "ANTRASİT",
+						"selected": false,
+						"count": 18
+					},
+					{
+						"value": "swatchColors:GRİ",
+						"title": "GRİ",
+						"selected": false,
+						"count": 17
+					},
+					{
+						"value": "swatchColors:LİLA",
+						"title": "LİLA",
+						"selected": false,
+						"count": 17
+					},
+					{
+						"value": "swatchColors:TAŞ",
+						"title": "TAŞ",
+						"selected": false,
+						"count": 16
+					},
+					{
+						"value": "swatchColors:MERCAN",
+						"title": "MERCAN",
+						"selected": false,
+						"count": 14
+					},
+					{
+						"value": "swatchColors:NAR",
+						"title": "NAR",
+						"selected": false,
+						"count": 14
+					},
+					{
+						"value": "swatchColors:VİZON",
+						"title": "VİZON",
+						"selected": false,
+						"count": 14
+					},
+					{
+						"value": "swatchColors:AÇIK MAVİ",
+						"title": "AÇIK MAVİ",
+						"selected": false,
+						"count": 12
+					},
+					{
+						"value": "swatchColors:CAMEL",
+						"title": "CAMEL",
+						"selected": false,
+						"count": 12
+					},
+					{
+						"value": "swatchColors:KAHVERENGİ",
+						"title": "KAHVERENGİ",
+						"selected": false,
+						"count": 11
+					},
+					{
+						"value": "swatchColors:MOR",
+						"title": "MOR",
+						"selected": false,
+						"count": 10
+					},
+					{
+						"value": "swatchColors:KOYU MAVİ",
+						"title": "KOYU MAVİ",
+						"selected": false,
+						"count": 8
+					},
+					{
+						"value": "swatchColors:ORANJ",
+						"title": "ORANJ",
+						"selected": false,
+						"count": 8
+					},
+					{
+						"value": "swatchColors:KUM",
+						"title": "KUM",
+						"selected": false,
+						"count": 7
+					},
+					{
+						"value": "swatchColors:ANTRASİT MELANJ",
+						"title": "ANTRASİT MELANJ",
+						"selected": false,
+						"count": 6
+					},
+					{
+						"value": "swatchColors:MOR/BEYAZ",
+						"title": "MOR/BEYAZ",
+						"selected": false,
+						"count": 6
+					},
+					{
+						"value": "swatchColors:AÇIK KAHVERENGİ",
+						"title": "AÇIK KAHVERENGİ",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "swatchColors:KAHVE",
+						"title": "KAHVE",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "swatchColors:HARDAL",
+						"title": "HARDAL",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "swatchColors:RENKLİ",
+						"title": "RENKLİ",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "swatchColors:KREM",
+						"title": "KREM",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "swatchColors:KİREMİT",
+						"title": "KİREMİT",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "swatchColors:MİNT",
+						"title": "MİNT",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "swatchColors:PETROL",
+						"title": "PETROL",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "swatchColors:TOPRAK",
+						"title": "TOPRAK",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "swatchColors:AÇIK YEŞİL",
+						"title": "AÇIK YEŞİL",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:Bisküvi",
+						"title": "Bisküvi",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:GRİ/SİYAH",
+						"title": "GRİ/SİYAH",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:GÜL KURUSU",
+						"title": "GÜL KURUSU",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:GÜMÜŞ",
+						"title": "GÜMÜŞ",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:KARISIK",
+						"title": "KARISIK",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:KOBALT",
+						"title": "KOBALT",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:KOYU YEŞİL",
+						"title": "KOYU YEŞİL",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:PARLAMENT",
+						"title": "PARLAMENT",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:SOMON",
+						"title": "SOMON",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:TABA",
+						"title": "TABA",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:TÜTÜN",
+						"title": "TÜTÜN",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:ÇAĞLA",
+						"title": "ÇAĞLA",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "swatchColors:ALTIN",
+						"title": "ALTIN",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:BAKIR",
+						"title": "BAKIR",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:BEYAZ/MAVİ",
+						"title": "BEYAZ/MAVİ",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:CORAL",
+						"title": "CORAL",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:FÜME",
+						"title": "FÜME",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:KOYU GRİ",
+						"title": "KOYU GRİ",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:KOYU LACİVERT",
+						"title": "KOYU LACİVERT",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:KOYU PEMBE",
+						"title": "KOYU PEMBE",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:LACİVERT/HARDAL",
+						"title": "LACİVERT/HARDAL",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:LEOPAR",
+						"title": "LEOPAR",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:MÜRDÜM",
+						"title": "MÜRDÜM",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:NEFTİ",
+						"title": "NEFTİ",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:ORTA INDIGO",
+						"title": "ORTA INDIGO",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:PUDRA",
+						"title": "PUDRA",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:SİYAH/BEYAZ",
+						"title": "SİYAH/BEYAZ",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:SİYAH/KOT",
+						"title": "SİYAH/KOT",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "swatchColors:VANİLYA",
+						"title": "VANİLYA",
+						"selected": false,
+						"count": 1
+					}
+				],
+				"selected": false
+			},
+			{
+				"filterKey": "size",
+				"title": "Bedenler",
+				"selectionType": "multi",
+				"isQuickFilter": true,
+				"count": 5553,
+				"items": [{
+						"value": "size:1",
+						"title": "1",
+						"selected": false,
+						"count": 31
+					},
+					{
+						"value": "size:2",
+						"title": "2",
+						"selected": false,
+						"count": 31
+					},
+					{
+						"value": "size:24",
+						"title": "24",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:24/27",
+						"title": "24/27",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "size:24/30",
+						"title": "24/30",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "size:24/32",
+						"title": "24/32",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "size:25",
+						"title": "25",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "size:25/27",
+						"title": "25/27",
+						"selected": false,
+						"count": 7
+					},
+					{
+						"value": "size:25/29",
+						"title": "25/29",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "size:25/32",
+						"title": "25/32",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:26",
+						"title": "26",
+						"selected": false,
+						"count": 26
+					},
+					{
+						"value": "size:26/27",
+						"title": "26/27",
+						"selected": false,
+						"count": 6
+					},
+					{
+						"value": "size:26/29",
+						"title": "26/29",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "size:26/30",
+						"title": "26/30",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "size:26/32",
+						"title": "26/32",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:27",
+						"title": "27",
+						"selected": false,
+						"count": 26
+					},
+					{
+						"value": "size:27/27",
+						"title": "27/27",
+						"selected": false,
+						"count": 7
+					},
+					{
+						"value": "size:27/29",
+						"title": "27/29",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "size:27/30",
+						"title": "27/30",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "size:27/32",
+						"title": "27/32",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:28",
+						"title": "28",
+						"selected": false,
+						"count": 28
+					},
+					{
+						"value": "size:28/27",
+						"title": "28/27",
+						"selected": false,
+						"count": 8
+					},
+					{
+						"value": "size:28/29",
+						"title": "28/29",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "size:28/30",
+						"title": "28/30",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "size:28/32",
+						"title": "28/32",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:29",
+						"title": "29",
+						"selected": false,
+						"count": 26
+					},
+					{
+						"value": "size:29/27",
+						"title": "29/27",
+						"selected": false,
+						"count": 6
+					},
+					{
+						"value": "size:29/29",
+						"title": "29/29",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "size:29/30",
+						"title": "29/30",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "size:29/32",
+						"title": "29/32",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "size:2XL",
+						"title": "2XL",
+						"selected": false,
+						"count": 104
+					},
+					{
+						"value": "size:3",
+						"title": "3",
+						"selected": false,
+						"count": 31
+					},
+					{
+						"value": "size:30",
+						"title": "30",
+						"selected": false,
+						"count": 26
+					},
+					{
+						"value": "size:30/27",
+						"title": "30/27",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:30/29",
+						"title": "30/29",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:30/30",
+						"title": "30/30",
+						"selected": false,
+						"count": 1
+					},
+					{
+						"value": "size:30/32",
+						"title": "30/32",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:31",
+						"title": "31",
+						"selected": false,
+						"count": 25
+					},
+					{
+						"value": "size:31/29",
+						"title": "31/29",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "size:31/32",
+						"title": "31/32",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "size:32",
+						"title": "32",
+						"selected": false,
+						"count": 21
+					},
+					{
+						"value": "size:32/29",
+						"title": "32/29",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "size:32/32",
+						"title": "32/32",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "size:33",
+						"title": "33",
+						"selected": false,
+						"count": 12
+					},
+					{
+						"value": "size:34",
+						"title": "34",
+						"selected": false,
+						"count": 89
+					},
+					{
+						"value": "size:34/32",
+						"title": "34/32",
+						"selected": false,
+						"count": 2
+					},
+					{
+						"value": "size:36",
+						"title": "36",
+						"selected": false,
+						"count": 151
+					},
+					{
+						"value": "size:38",
+						"title": "38",
+						"selected": false,
+						"count": 254
+					},
+					{
+						"value": "size:3XL",
+						"title": "3XL",
+						"selected": false,
+						"count": 16
+					},
+					{
+						"value": "size:4",
+						"title": "4",
+						"selected": false,
+						"count": 29
+					},
+					{
+						"value": "size:40",
+						"title": "40",
+						"selected": false,
+						"count": 244
+					},
+					{
+						"value": "size:42",
+						"title": "42",
+						"selected": false,
+						"count": 233
+					},
+					{
+						"value": "size:44",
+						"title": "44",
+						"selected": false,
+						"count": 217
+					},
+					{
+						"value": "size:46",
+						"title": "46",
+						"selected": false,
+						"count": 130
+					},
+					{
+						"value": "size:48",
+						"title": "48",
+						"selected": false,
+						"count": 120
+					},
+					{
+						"value": "size:4XL",
+						"title": "4XL",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:50",
+						"title": "50",
+						"selected": false,
+						"count": 106
+					},
+					{
+						"value": "size:52",
+						"title": "52",
+						"selected": false,
+						"count": 51
+					},
+					{
+						"value": "size:54",
+						"title": "54",
+						"selected": false,
+						"count": 14
+					},
+					{
+						"value": "size:56",
+						"title": "56",
+						"selected": false,
+						"count": 9
+					},
+					{
+						"value": "size:5XL",
+						"title": "5XL",
+						"selected": false,
+						"count": 4
+					},
+					{
+						"value": "size:L",
+						"title": "L",
+						"selected": false,
+						"count": 842
+					},
+					{
+						"value": "size:L/XL",
+						"title": "L/XL",
+						"selected": false,
+						"count": 12
+					},
+					{
+						"value": "size:M",
+						"title": "M",
+						"selected": false,
+						"count": 832
+					},
+					{
+						"value": "size:S",
+						"title": "S",
+						"selected": false,
+						"count": 801
+					},
+					{
+						"value": "size:S/M",
+						"title": "S/M",
+						"selected": false,
+						"count": 12
+					},
+					{
+						"value": "size:STANDART",
+						"title": "STANDART",
+						"selected": false,
+						"count": 18
+					},
+					{
+						"value": "size:XL",
+						"title": "XL",
+						"selected": false,
+						"count": 476
+					},
+					{
+						"value": "size:XS",
+						"title": "XS",
+						"selected": false,
+						"count": 383
+					}
+				],
+				"selected": false
+			},
+			{
+				"filterKey": "cinsiyet",
+				"title": "Cinsiyet",
+				"selectionType": "multi",
+				"isQuickFilter": false,
+				"count": 1431,
+				"items": [{
+						"value": "cinsiyet:Kadın",
+						"title": "Kadın",
+						"selected": false,
+						"count": 1430
+					},
+					{
+						"value": "cinsiyet:Erkek",
+						"title": "Erkek",
+						"selected": false,
+						"count": 1
+					}
+				],
+				"selected": false
+			},
+			{
+				"filterKey": "priceRangeValue",
+				"title": "Fiyat Aralığı",
+				"selectionType": "multi",
+				"isQuickFilter": false,
+				"count": 1431,
+				"items": [{
+						"value": "priceRangeValue:50 TL - 199,99 TL",
+						"title": "50 TL - 199,99 TL",
+						"selected": false,
+						"count": 377
+					},
+					{
+						"value": "priceRangeValue:200 TL - 499,99 TL",
+						"title": "200 TL - 499,99 TL",
+						"selected": false,
+						"count": 603
+					},
+					{
+						"value": "priceRangeValue:500 TL - 999,99 TL",
+						"title": "500 TL - 999,99 TL",
+						"selected": false,
+						"count": 375
+					},
+					{
+						"value": "priceRangeValue:1.000 TL ve üzeri",
+						"title": "1.000 TL ve üzeri",
+						"selected": false,
+						"count": 76
+					}
+				],
+				"selected": false
+			},
+			{
+				"filterKey": "category",
+				"title": "Kategoriler",
+				"selectionType": "single",
+				"isQuickFilter": false,
+				"count": 1431,
+				"items": [{
+						"value": "mgz-kadin-giyim-tshirt",
+						"title": "T-Shirt",
+						"selected": false,
+						"count": 321
+					},
+					{
+						"value": "mgz-kadin-giyim-bluz",
+						"title": "Bluz & Tunik",
+						"selected": false,
+						"count": 235
+					},
+					{
+						"value": "mgz-kadin-giyim-pantolon",
+						"title": "Pantolon",
+						"selected": false,
+						"count": 155
+					},
+					{
+						"value": "mgz-kadin-giyim-esofman",
+						"title": "Eşofman",
+						"selected": false,
+						"count": 103
+					},
+					{
+						"value": "mgz-kadin-giyim-atlet",
+						"title": "Atlet",
+						"selected": false,
+						"count": 92
+					},
+					{
+						"value": "mgz-kadin-giyim-gomlek",
+						"title": "Gömlek",
+						"selected": false,
+						"count": 80
+					},
+					{
+						"value": "mgz-kadin-giyim-sweatshirt",
+						"title": "Sweatshirt",
+						"selected": false,
+						"count": 64
+					},
+					{
+						"value": "mgz-kadin-giyim-elbise",
+						"title": "Elbise & Tulum",
+						"selected": false,
+						"count": 60
+					},
+					{
+						"value": "mgz-kadin-giyim-kotpantolon",
+						"title": "Kot Pantolon",
+						"selected": false,
+						"count": 58
+					},
+					{
+						"value": "mgz-kadin-giyim-kazak",
+						"title": "Kazak & Hırka",
+						"selected": false,
+						"count": 57
+					},
+					{
+						"value": "mgz-kadin-giyim-ceket",
+						"title": "Ceket",
+						"selected": false,
+						"count": 40
+					},
+					{
+						"value": "mgz-kadin-giyim-tayt",
+						"title": "Tayt",
+						"selected": false,
+						"count": 40
+					},
+					{
+						"value": "mgz-kadin-giyim-sort",
+						"title": "Bermuda & Şort",
+						"selected": false,
+						"count": 39
+					},
+					{
+						"value": "mgz-kadin-giyim-mont",
+						"title": "Mont & Kaban",
+						"selected": false,
+						"count": 38
+					},
+					{
+						"value": "mgz-kadin-giyim-etek",
+						"title": "Etek",
+						"selected": false,
+						"count": 34
+					},
+					{
+						"value": "mgz-kadin-giyim-yelek",
+						"title": "Yelek",
+						"selected": false,
+						"count": 13
+					},
+					{
+						"value": "mgz-kadin-giyim-yagmurluk-ruzgarlik",
+						"title": "Yağmurluk & Rüzgarlık",
+						"selected": false,
+						"count": 2
+					}
+				],
+				"selected": false
+			},
+			{
+				"filterKey": "brand",
+				"title": "Markalar",
+				"selectionType": "multi",
+				"isQuickFilter": false,
+				"count": 1431,
+				"items": [{
+						"value": "brand:Shefame",
+						"title": "Shefame",
+						"selected": false,
+						"count": 218
+					},
+					{
+						"value": "brand:First Company Denim",
+						"title": "First Company Denim",
+						"selected": false,
+						"count": 171
+					},
+					{
+						"value": "brand:Koton",
+						"title": "Koton",
+						"selected": false,
+						"count": 137
+					},
+					{
+						"value": "brand:Loft",
+						"title": "Loft",
+						"selected": false,
+						"count": 126
+					},
+					{
+						"value": "brand:First Company",
+						"title": "First Company",
+						"selected": false,
+						"count": 123
+					},
+					{
+						"value": "brand:Mavi",
+						"title": "Mavi",
+						"selected": false,
+						"count": 86
+					},
+					{
+						"value": "brand:Onfashion",
+						"title": "Onfashion",
+						"selected": false,
+						"count": 85
+					},
+					{
+						"value": "brand:Selen",
+						"title": "Selen",
+						"selected": false,
+						"count": 80
+					},
+					{
+						"value": "brand:Bad Bear",
+						"title": "Bad Bear",
+						"selected": false,
+						"count": 69
+					},
+					{
+						"value": "brand:Ekol",
+						"title": "Ekol",
+						"selected": false,
+						"count": 69
+					},
+					{
+						"value": "brand:First Company Sport",
+						"title": "First Company Sport",
+						"selected": false,
+						"count": 65
+					},
+					{
+						"value": "brand:İkoll",
+						"title": "İkoll",
+						"selected": false,
+						"count": 45
+					},
+					{
+						"value": "brand:Femina",
+						"title": "Femina",
+						"selected": false,
+						"count": 44
+					},
+					{
+						"value": "brand:Pierre Cardin",
+						"title": "Pierre Cardin",
+						"selected": false,
+						"count": 31
+					},
+					{
+						"value": "brand:Lumberjack",
+						"title": "Lumberjack",
+						"selected": false,
+						"count": 25
+					},
+					{
+						"value": "brand:Defacto",
+						"title": "Defacto",
+						"selected": false,
+						"count": 20
+					},
+					{
+						"value": "brand:Skechers",
+						"title": "Skechers",
+						"selected": false,
+						"count": 8
+					},
+					{
+						"value": "brand:Slazenger",
+						"title": "Slazenger",
+						"selected": false,
+						"count": 7
+					},
+					{
+						"value": "brand:Robin",
+						"title": "Robin",
+						"selected": false,
+						"count": 6
+					},
+					{
+						"value": "brand:Nike",
+						"title": "Nike",
+						"selected": false,
+						"count": 5
+					},
+					{
+						"value": "brand:Adidas",
+						"title": "Adidas",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "brand:New Balance",
+						"title": "New Balance",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "brand:U.S. Polo Assn.",
+						"title": "U.S. Polo Assn.",
+						"selected": false,
+						"count": 3
+					},
+					{
+						"value": "brand:United Colors Of Benetton",
+						"title": "United Colors Of Benetton",
+						"selected": false,
+						"count": 2
+					}
+				],
+				"selected": false
+			},
+			{
+				"filterKey": "badge",
+				"title": "Kampanyalar",
+				"selectionType": "multi",
+				"isQuickFilter": false,
+				"count": 3,
+				"items": [{
+					"value": "badge:badge-mont-kaban",
+					"title": "mont-kaban",
+					"selected": false,
+					"count": 3
+				}],
+				"selected": false
+			},
+			{
+				"filterKey": "hasPromotion",
+				"title": "Kampyanya",
+				"selectionType": "single",
+				"isQuickFilter": false,
+				"count": 3,
+				"items": [{
+					"value": "hasPromotion:true",
+					"title": "true",
+					"selected": false,
+					"count": 3
+				}],
+				"selected": false
+			},
+			{
+				"filterKey": "hasDiscount",
+				"title": "İndirim",
+				"selectionType": "toggle",
+				"isQuickFilter": true,
+				"count": 208,
+				"items": [{
+					"value": "hasDiscount:true",
+					"title": "true",
+					"selected": false,
+					"count": 208
+				}],
+				"selected": false
+			},
+			{
+				"filterKey": "suitableForInstallment",
+				"title": "Taksitlendirme",
+				"selectionType": "multi",
+				"isQuickFilter": true,
+				"count": 1431,
+				"items": [{
+					"value": "suitableForInstallment:true",
+					"title": "Taksitli",
+					"selected": false,
+					"count": 1431
+				}],
+				"selected": false
+			}
+		],
+		"products": [{
+				"productId": "PR-2224BS2133260068700041VIZON",
+				"name": "First Company Kadın Yelek 2224BS213326",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMxODY4MnxpbWFnZS9qcGVnfGhhMC9oMTUvOTc1NzI3NzA5MzkxOHwyYTk4NDIxMTRlZjA3MDJhNWFjMzQ2YzI4NDMxNzk4NDA3NWRkOGM1NWY0OTVjOWI2NmZkNGUxMjJmMjg1Njcy"
+				],
+				"price": {
+					"discountRate": null,
+					"oldPrice": null,
+					"currentPriceWholeNumber": "499",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 499.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "499,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "2",
+				"categories": [
+					"Yelek",
+					"Giyim",
+					"Kadın"
+				]
+			},
+			{
+				"productId": "PR-2224BS2133260068700041SIYAH",
+				"name": "First Company Kadın Yelek 2224BS213326",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEyNDc4N3xpbWFnZS9qcGVnfGhmNi9oYmQvOTc1NzI3NTA5NTA3MHxiZTA2OGYwYmZiNjEwNzg3MGZhNTIyMDY1ZjdkYjYyMzMzYjQyNGE2ZTA3MDBjM2I3NTczNGRhZWYwY2JhNTFh"
+				],
+				"price": {
+					"discountRate": "14",
+					"oldPrice": "349,99",
+					"currentPriceWholeNumber": "299",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 299.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "299,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "2",
+				"categories": [
+					"Yelek",
+					"Giyim",
+					"Kadın"
+				]
+			},
+			{
+				"productId": "PR-2224BS2133520068700041BEJ",
+				"name": "First Company Kadın Yelek 2224BS213352",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTUyOTI2fGltYWdlL2pwZWd8aGZlL2hmZS85NjcwMzkwOTA2OTEwfDBmZjBiOTQ2NzgwNTVhYWJjOTk3ODllMmFmNzY1ZTRjYjUyOTA1NjdmZGVkNTNlZDFjYjRiMzFjYjk5MDU5MjU"
+				],
+				"price": {
+					"discountRate": "16",
+					"oldPrice": "299,99",
+					"currentPriceWholeNumber": "249",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 249.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "249,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "2",
+				"categories": [
+					"Yelek",
+					"Giyim",
+					"Kadın"
+				]
+			},
+			{
+				"productId": "PR-2224BS2012940068700041BEJ",
+				"name": "First Company Kadın Mont 2224BS201294",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Njg3MDk0fGltYWdlL2pwZWd8aDhkL2hhZi85ODIxNjkwOTUzNzU4fDcxNDZlY2EyYjJmMjBhMTViYTljNmVlNTBhNjc4YzQyMjY0MTE0ZGZjMzY5ODYzMGU1N2YyODhmNWU4MzZhNmI"
+				],
+				"price": {
+					"discountRate": "16",
+					"oldPrice": "599,99",
+					"currentPriceWholeNumber": "499",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 499.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "499,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "3",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Mont & Kaban"
+				]
+			},
+			{
+				"productId": "PR-2224BS2013450068700041BEYAZ",
+				"name": "First Company Kadın Mont 2224BS201345",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzQwNzcyfGltYWdlL2pwZWd8aGQzL2gzMS85ODIxNjgwNDAyNDYyfGQ2ZDg5M2MzMzhmNzEzM2YwN2YwZGYxYTk5M2EzYThjOTRiMTBhYzM2MzRjMWFmOGJjYjkzOWIwMWZjNGMyMjc"
+				],
+				"price": {
+					"discountRate": "10",
+					"oldPrice": "499,99",
+					"currentPriceWholeNumber": "449",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 449.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "449,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Mont & Kaban"
+				]
+			},
+			{
+				"productId": "PR-2224BS2133520068700041SIYAH",
+				"name": "First Company Kadın Yelek 2224BS213352",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjUzNzU1fGltYWdlL2pwZWd8aDM2L2hjYi85NzU3NDQ1NTg2OTc0fDYyMjg2NzUyMzg2YTk4NzNhMDk3NzhiMGI5MDNmNzgwYjQzOWFjZmY4MGI0ZDhjMTA1ZWZjZGNmYzFlZDlhZDY"
+				],
+				"price": {
+					"discountRate": "16",
+					"oldPrice": "299,99",
+					"currentPriceWholeNumber": "249",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 249.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "249,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "2",
+				"categories": [
+					"Yelek",
+					"Giyim",
+					"Kadın"
+				]
+			},
+			{
+				"productId": "PR-2224BS2174590068700041SIYAH",
+				"name": "First Company Kadın Trençkot 2224BS217459",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTgxNTg4fGltYWdlL2pwZWd8aDM1L2hmZS85NjkyMzI0MDM2NjM4fGU3YzBjM2Q1YmU3ZmY3ZGI0MmQ4OTIyOGRhZTJiNTJkMWE5NWM4ZjhkNTczMGY3MTQ2N2JhYWRmOWRmMzM3NTA"
+				],
+				"price": {
+					"discountRate": "11",
+					"oldPrice": "449,99",
+					"currentPriceWholeNumber": "399",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 399.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "399,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Mont & Kaban"
+				]
+			},
+			{
+				"productId": "PR-2224BS2013540068700041BEJ",
+				"name": "First Company Kadın Mont 2224BS201354",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM0ODM3NnxpbWFnZS9qcGVnfGg1OC9oMGQvOTc1NzQ1MDUwMjE3NHwwNjgxNDdjMGEzODVmNjc0YTk5ZjYyMGVmZDRlMWU1MzJkMDkyOTIyODBlODU5MjYwNTU2YjMyZTQyZjQ0MzFi"
+				],
+				"price": {
+					"discountRate": "11",
+					"oldPrice": "449,99",
+					"currentPriceWholeNumber": "399",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 399.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "399,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Mont & Kaban"
+				]
+			},
+			{
+				"productId": "PR-2224BS2133530068700041SIYAH",
+				"name": "First Company Kadın Mont 2224BS213353",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjY2MTQzfGltYWdlL2pwZWd8aDYyL2g5Yy85NjgzNDUyODIxNTM0fDZiZmQ5OWNhNTlhZmJjNGMyZTAwZWM3MzQ2Y2M2ZDczZjM4OWIwMTU3OWNmNTgzNjAxMDhiYjYyYzlkM2UzMzM"
+				],
+				"price": {
+					"discountRate": "12",
+					"oldPrice": "399,99",
+					"currentPriceWholeNumber": "349",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 349.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "349,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "2",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Mont & Kaban"
+				]
+			},
+			{
+				"productId": "PR-2224BS2133530068700041BEJ",
+				"name": "First Company Kadın Mont 2224BS213353",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjI2ODQ0fGltYWdlL2pwZWd8aDI5L2hmZi85NjgzNDUzNjA3OTY2fDgyMGEzY2Q5ZDQxODVkNzlmYTA3NzcxYTQ1MDBlNWY2ZTJiZjViMGZiNzM3NTEyY2I5Y2NhZWVjZDNiOGE4NWQ"
+				],
+				"price": {
+					"discountRate": "12",
+					"oldPrice": "399,99",
+					"currentPriceWholeNumber": "349",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 349.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "349,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "2",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Mont & Kaban"
+				]
+			},
+			{
+				"productId": "PR-2224BS2133430068700041ORANJ",
+				"name": "First Company Kadın Yelek 2224BS213343",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzA5NDU5fGltYWdlL2pwZWd8aGRlL2gxYi85NzU3MjcyNzM1Nzc0fDA2YWRhZjI4NjdkNDc3Y2UyMTUwNTMzOGMxN2YxYTkwOTgxZjYxZGY1OWRlZTI2NTlhNmU2OTYyY2Y0ZGRlZTI"
+				],
+				"price": {
+					"discountRate": "12",
+					"oldPrice": "399,99",
+					"currentPriceWholeNumber": "349",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 349.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "349,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Yelek",
+					"Giyim",
+					"Kadın"
+				]
+			},
+			{
+				"productId": "PR-2224BS2174880068700041TABA",
+				"name": "First Company Kadın Trençkot 2224BS217488",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzUxMzI4fGltYWdlL2pwZWd8aGJjL2g4YS85NjY0ODIwMDE5MjMwfGZlNGNjNDUxN2YwNTIxMjNkMTk4NDVlOWRlYThlMDAxYzFjNzhhNjkxZTkyOGUyMDg3ZjcyZTE3ZmU0MGIyOGE"
+				],
+				"price": {
+					"discountRate": "11",
+					"oldPrice": "449,99",
+					"currentPriceWholeNumber": "399",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 399.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "399,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Mont & Kaban"
+				]
+			},
+			{
+				"productId": "PR-2224BS2133460068700041SIYAH",
+				"name": "First Company Kadın Yelek 2224BS213346",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzMwMDk0fGltYWdlL2pwZWd8aGVjL2hjNy85NzU3NDIzNzMwNzE4fDIyMzhiNjVmZjNkZjAwOGM0YWRlZGFlYjVmNjg4N2EwNjFjZjljZjNjNTBmMDU4MDliY2NjMThjY2RmZDlkN2U"
+				],
+				"price": {
+					"discountRate": "11",
+					"oldPrice": "449,99",
+					"currentPriceWholeNumber": "399",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 399.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "399,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Yelek",
+					"Giyim",
+					"Kadın"
+				]
+			},
+			{
+				"productId": "PR-2224BS2012940068700041TABA",
+				"name": "First Company Kadın Mont 2224BS201294",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzUzNzI4fGltYWdlL2pwZWd8aGVlL2hlNS85NzQwNjAzMzI2NDk0fDk3ODVmN2JlMDVhYmY0ZWM2ZjFjMDQ5OTdjOTQ0ZTA5NWFiYmI5NjhiMzhlZjYwYjE3NWI5YTY3NDQxNTUyMWY"
+				],
+				"price": {
+					"discountRate": "16",
+					"oldPrice": "599,99",
+					"currentPriceWholeNumber": "499",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 499.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "499,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "3",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Mont & Kaban"
+				]
+			},
+			{
+				"productId": "PR-2224BK1101470292500041SIYAH",
+				"name": "Shefame Kadın Hırka 2224BK110147",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE5Nzg3MXxpbWFnZS9qcGVnfGg2Yy9oMjcvOTY4MzQ3MjIyMDE5MHxjNDFkM2Y4MWIzYmI4ODNmNmQ4NmVmYzk2NTJlYzkxYTI5ODRkMTdjYTBiODIwYzMxZGNlZjczMjNmMmY4ZGNl"
+				],
+				"price": {
+					"discountRate": "23",
+					"oldPrice": "649,99",
+					"currentPriceWholeNumber": "499",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 499.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "499,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Kadın",
+					"Giyim",
+					"Büyük Beden",
+					"Üst Giyim",
+					"Kazak & Hırka"
+				]
+			},
+			{
+				"productId": "PR-M122354-831500113200041MAVI",
+				"name": "Mavi Kadın Gömlek M122354-83150",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMyMDU1MnxpbWFnZS9qcGVnfGgxZS9oMDEvOTc2NDcwMzI0MDIyMnw5MjgwYzFiNGIyMDg4ZGIyY2I5NmY3YTJjNzExY2VjY2E1OWJjOTZmY2Q1MGU3ZjczYzNjOWJiYjI2NGEzN2Q1"
+				],
+				"price": {
+					"discountRate": "30",
+					"oldPrice": "549,99",
+					"currentPriceWholeNumber": "384",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 384.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "384,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Gömlek",
+					"Giyim",
+					"Kadın"
+				]
+			},
+			{
+				"productId": "PR-M1710200-819640113200041BEYAZ",
+				"name": "Mavi Kadın Hırka M1710200-81964",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI1Nzc3MHxpbWFnZS9qcGVnfGhjNi9oODUvOTc2NDYyMzY0Njc1MHw3NmEzMTljYzk0MDVkMjIzYWVmYWU1MjQzZTUxOTFiYzk5OWM3NzM4YThjNzhlNThjMTIxM2RjMjM3MGYzNGI3"
+				],
+				"price": {
+					"discountRate": "30",
+					"oldPrice": "799,99",
+					"currentPriceWholeNumber": "559",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 559.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "559,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Kazak & Hırka"
+				]
+			},
+			{
+				"productId": "PR-M1710206-9000113200041SIYAH",
+				"name": "Mavi Kadın Kazak M1710206-900",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTA4NjIwOHxpbWFnZS9qcGVnfGg5OS9oNTUvOTc2NDYzNDAwMTQzOHxlMThhNWI1ZjQ4ODQ1MTU2YThlMWIwZTJkYmViZTVhNjBhNDE0ZDNiZjkwYTk1NmFhZjE1YjBlYWQxNjAwODQ5"
+				],
+				"price": {
+					"discountRate": "30",
+					"oldPrice": "599,99",
+					"currentPriceWholeNumber": "419",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 419.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "419,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Kazak & Hırka"
+				]
+			},
+			{
+				"productId": "PR-3WAK40014EK0101300041SIYAH",
+				"name": "Koton Kadın Pantolon 3WAK40014EK",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEwMjEzNnxpbWFnZS9qcGVnfGg1YS9oOTcvOTc2NDQyNDQxNzMxMHwzN2JiOGYxZGE1NDI5NWViYzVmZDI4YmQxMDY0MGQwZGMyYzE4MWQ5M2Q5NDA4ZjgxYTk5MjM5ZTQzODYzMWYw"
+				],
+				"price": {
+					"discountRate": "44",
+					"oldPrice": "269,99",
+					"currentPriceWholeNumber": "149",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 149.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "149,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Pantolon"
+				]
+			},
+			{
+				"productId": "PR-3WAK40127UW0101300041SIYAH",
+				"name": "Koton Kadın Pantolon 3WAK40127UW",
+				"images": [
+					"https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIxOTU4N3xpbWFnZS9qcGVnfGgwNy9oZmQvOTc2NDQ1NDE3MDY1NHw2NjdmZjY5NjZjMDZhYzIwOTM3Zjk0NjQ2ZmExZDkzNmJiOTgzMDViNGU1MmFlNGRiMDEyYzhiYWIzYmQyYjVh"
+				],
+				"price": {
+					"discountRate": "24",
+					"oldPrice": "369,99",
+					"currentPriceWholeNumber": "279",
+					"separator": ",",
+					"currentPriceDecimalNUmber": "99",
+					"currency": "TL",
+					"value": 279.99,
+					"firebaseCurrency": "TRY",
+					"formattedValue": "279,99 TL",
+					"isPriceRange": false
+				},
+				"isQuantityPickerVisible": false,
+				"quantityPickerProperties": {
+					"minimumQuantity": 1,
+					"maxQuantity": 100,
+					"defaultQuantity": 1,
+					"incrementValue": 1,
+					"unit": {
+						"type": "AD",
+						"text": "Adet"
+					}
+				},
+				"colorCount": "1",
+				"categories": [
+					"Giyim",
+					"Kadın",
+					"Pantolon"
+				]
+			}
+		],
+		"sorting": [{
+				"key": "topRated",
+				"name": "Çok Satanlar",
+				"selected": false
+			},
+			{
+				"key": "name-asc",
+				"name": "Ürün Adı (Artan)",
+				"selected": false
+			},
+			{
+				"key": "name-desc",
+				"name": "Ürün Adı (Azalan)",
+				"selected": false
+			},
+			{
+				"key": "price-asc",
+				"name": "Fiyat (Artan)",
+				"selected": false
+			},
+			{
+				"key": "price-desc",
+				"name": "Fiyat (Azalan)",
+				"selected": false
+			},
+			{
+				"key": "smartSort",
+				"name": "Akıllı Sıralama",
+				"selected": false
+			},
+			{
+				"key": "rating-asc",
+				"name": "Ürün Puanı (Artan)",
+				"selected": false
+			},
+			{
+				"key": "rating-desc",
+				"name": "Ürün Puanı (Azalan)",
+				"selected": false
+			},
+			{
+				"key": "discount-asc",
+				"name": "İndirim Oranı (Artan)",
+				"selected": false
+			},
+			{
+				"key": "discount-desc",
+				"name": "İndirim Oranı (Azalan)",
+				"selected": false
+			}
+		]
+	}
 }
