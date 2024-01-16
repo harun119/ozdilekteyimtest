@@ -3,7 +3,7 @@
   "message": null,
   "data": {
     "title": "Tüm Kampanyalar - Özdilekteyim.com",
-    "banners": [
+    "bannerList": [
       {
         "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/haribo.jpg?context=bWFzdGVyfHJvb3R8MTQxMDkzfGltYWdlL2pwZWd8aDdiL2hiZi8xMDA0NTEwNTMwNzY3OC9oYXJpYm8uanBnfDA3ZTk3YzY4ZjVhODQ2ODhmNWY2M2JkMTBmZWUxY2VjMzEzNDg2NDFjNzRkYTZiNmNhMTgxMjhlMWNlNDA1Zjk",
         "category": [
