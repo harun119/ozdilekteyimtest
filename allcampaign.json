@@ -67,7 +67,7 @@
       "imageAspectRatio": 2.116,
       "visibleItemCount": 1.0,
       "cornerRadius": 8.0,
-      "itemSpace": 0.0,
+      "itemSpace": 16.0,
       "showDivider": false
     },
     "filterList": [
